@@ -8,10 +8,10 @@ We'd love to have a copy in the archive! However, there are some restrictions on
 * Scripts provided as examples
 
 ### We will NOT accept:
-* Scripts that use internal APIs not intended for public visiblity^†^
+* Scripts that use internal APIs not intended for public visiblity†
 * Scripts that have been leaked via early copybotting techniques
 * Scripts that have been accidentally leaked
-* Scripts with the following header^‡^:
+* Scripts with the following header‡:
 ```lsl
 ///////////////////////////////////////////////////////////////////////////
 // @file: {title}
